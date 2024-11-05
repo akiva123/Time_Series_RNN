@@ -1,7 +1,7 @@
 # Time Series Prediction using RNN (LSTM) - README
 
 ## Overview
-This notebook demonstrates how to use a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) cells for time series forecasting. The goal is to predict future values in a time series based on past observations. This README will guide you through the flow of the notebook, detailing each step and the purpose behind it.
+This notebook demonstrates how to use a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) cells for time series forecasting. The data used in this project is Apple closing stock price over time. The goal is to predict future values in a time series based on past observations. This README will guide you through the flow of the notebook, detailing each step and the purpose behind it.
 
 ## Table of Contents
 - [Introduction](#introduction)
