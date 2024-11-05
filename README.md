@@ -57,5 +57,5 @@ The notebook concludes with a discussion of the findings. It observes that the R
 3. **Run Notebook**: Execute the notebook cells in order to train and evaluate the model on your time series data.
 
 ## Conclusion
-This notebook provides a foundation for time series forecasting using LSTM RNNs. It can be extended or modified to suit more complex datasets or specific forecasting needs.
+This notebook provides a foundation for time series forecasting using LSTM RNNs. It can be extended or modified to suit other datasets or specific forecasting needs.
 
